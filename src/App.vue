@@ -1,15 +1,18 @@
 <template>
   <NavBarVue name="Blog" />
   <router-view />
+  <BlogFooter />
 </template>
 
 
 <script>
 import NavBarVue from "./components/NavBar.vue";
+import BlogFooter from "./components/BlogFooter.vue";
 export default {
   name: "App",
   components: {
     NavBarVue,
+    BlogFooter,
   },
 };
 </script>

@@ -71,20 +71,32 @@ div {
   margin: auto;
 }
 #Cardwrappper {
-  width: 100%;
-  margin: auto;
+  width: 90%;
 }
 li {
   background: aliceblue;
   list-style: none;
   text-align: left;
-  padding: 4px;
+  padding: 10px;
   margin-bottom: 10px;
+  margin-right: 30px;
   border-radius: 10px;
 }
 span {
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+a {
+  text-decoration: none;
+  color: #42b983;
+}
+button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  padding: 2px 8px;
+  color: tomato;
+  font-size: 14px;
 }
 </style>
