@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "new title updated",
+      "body": "this is the first post-trial. Fingers crossed it works effortlessly. Wish me luck",
+      "writer": "ritchie",
+      "id": "mfaIYPg"
+    },
+    {
+      "title": "Trial 2",
+      "body": "this is the second post trial. I'm pretty sure it will work smoothly. Its flowing. It's all making sense now.",
+      "writer": "ritchie",
+      "id": "nVhuXkj"
+    },
+    {
+      "title": "trial 3 updated",
+      "body": "this is the last trial for post-creation.All other trials have worked and I'm pretty sure this it will work. Just made some changes to the button. Let's see if they actually work.",
+      "writer": "ritchie",
+      "id": "ZJVsJIF"
+    },
+    {
+      "title": "final title",
+      "body": "final body",
+      "writer": "ritchie",
+      "id": "UNx5D0Q"
+    }
+  ]
+}
